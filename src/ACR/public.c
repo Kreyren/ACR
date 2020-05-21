@@ -42,7 +42,7 @@
     \see ACR/public.h
     
 */
-#include "/workspace/ACR/include/ACR/public.h"
+#include "ACR/public.h"
 
 //#define ACR_USE_UTF8_LOCALE
 

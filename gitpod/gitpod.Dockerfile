@@ -4,4 +4,4 @@ USER root
 
 RUN true \
 	&& apt-get update \
-	&& apt-get install clang -y
+	&& apt-get install clangd -y

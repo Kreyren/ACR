@@ -3,6 +3,3 @@ tasks:
     command: echo "Replace me with something that should run on every start, or just
       remove me entirely."
 image: gitpod/workspace-full
-vscode:
-  extensions:
-    - ms-vscode.cpptools@0.26.2:Pq/tmf2WN3SanVzB4xZc1g==

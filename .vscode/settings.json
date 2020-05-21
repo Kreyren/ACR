@@ -1,3 +1,4 @@
 {
-  "cpp.clangTidy": true
+  "cpp.clangTidy": true,
+  "cpp.buildConfigurations": []
 }
